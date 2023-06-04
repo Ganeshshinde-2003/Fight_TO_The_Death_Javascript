@@ -26,3 +26,31 @@ The game project is built using the following components:
 
 
          https://github.com/Ganeshshinde-2003/Fight_TO_The_Death_Javascript.git
+         
+         
+2. Open the game project in a web browser by double-clicking the index.html file. 🌐
+
+3. The game screen will appear with two characters representing the players. 👬
+
+4. Player 1 controls:
+
+- Move left: Press the 'A' key. ⬅️
+- Move right: Press the 'D' key. ➡️
+- Jump: Press the 'W' key. ⬆️
+- Attack: Press the 'Q' key. 👊
+
+5. Player 2 controls:
+
+- Move left: Press the left arrow key. ⬅️
+- Move right: Press the right arrow key. ➡️
+- Jump: Press the up arrow key. ⬆️
+- Attack: Press the right Ctrl key. 👊
+5. Players can move their characters horizontally by pressing the corresponding movement keys. The characters will move left or right accordingly.
+
+6. To make a character jump, press the jump key. The character will perform a jump action.
+
+7. To attack, press the attack key. The character will perform an attack action towards the opponent player.
+
+8. The game continues until one player's health points reach zero. The player with remaining health points wins the game.
+
+9. If the game ends in a tie (both players have the same health points), it will be displayed as a tie result.
