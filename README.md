@@ -24,5 +24,5 @@ The game project is built using the following components:
 
 1. Clone the repository to your local machine. 💻
 
-```shell
-git clone https://github.com/your-username/game-project.git
+
+         https://github.com/Ganeshshinde-2003/Fight_TO_The_Death_Javascript.git
