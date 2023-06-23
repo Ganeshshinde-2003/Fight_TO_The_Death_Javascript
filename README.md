@@ -1,4 +1,4 @@
-# Game Project 🎮
+# Fight To The Death 🎮
 
 This is a game project that allows two players to control characters and engage in a battle. The objective of the game is to defeat the opponent player by reducing their health points to zero.
 
