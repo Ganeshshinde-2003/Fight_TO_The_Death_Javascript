@@ -20,7 +20,7 @@ The game project is built using the following components:
 
 - **Utility Functions**: The game includes a utility file (`util.js`) that provides helper functions for collision detection, determining the winner, and managing the game timer.
 
-## Instructions 📝
+## Instructions 📝 
 
 1. Clone the repository to your local machine. 💻
 
